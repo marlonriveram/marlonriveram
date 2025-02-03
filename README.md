@@ -22,16 +22,28 @@
 
 ## 🛠️ Mis Habiliades
 
-<div>
-  <ul>
-    <li>JavaScript</li>
-    <li>React</li>
-    <li>TypeScript</li>
-    <li>Node.js</li>
-    <li>Sql</li>
-    <li>Html</li>
-    <li>Css</li>
-  </ul>
+<div >
+  <div >
+    <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="20" height="20"/> JavaScript
+  </div>
+  <div>
+    <img src="https://img.icons8.com/plasticine/100/react.png" alt="React" width="20" height="20"/> React
+  </div>
+  <div >
+    <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" width="20" height="20"/> TypeScript
+  </div>
+  <div >
+    <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="20" height="20"/> Node.js
+  </div>
+  <div >
+    <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" width="20" height="20"/> SQL
+  </div>
+  <div >
+    <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" width="20" height="20"/> HTML
+  </div>
+  <div >
+    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="20" height="20"/> CSS
+  </div>
 </div>
 
 	
