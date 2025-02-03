@@ -15,7 +15,7 @@
 <div>
  <ul>
    <li>
-    Desarrollador de Software | SURAMERICANA | Dic 24, 2024 - Actualidadd
+    Desarrollador Aprendiz | SURA/SURAMERICANA | Dic 20, 2024 - Actualidadd
    </li>
  </ul>
 </div>
