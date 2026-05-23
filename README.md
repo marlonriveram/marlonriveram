@@ -1,6 +1,6 @@
 ### Bienvenido a mi Pefil 👋
 
-<h2> Desarrollador Full-Stack</h2>
+<h2> Desarrollador Java</h2>
 
 ### Sobre mí
 
