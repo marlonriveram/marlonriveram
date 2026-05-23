@@ -15,7 +15,7 @@
 <div>
  <ul>
    <li>
-    Desarrollador Aprendiz | SURA/SURAMERICANA | Dic 20, 2024 - Actualidadd
+    Desarrollador Aprendiz | SURA/SURAMERICANA | 2025
    </li>
  </ul>
 </div>
