@@ -26,6 +26,9 @@
   <div >
     <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="20" height="20"/> JavaScript
   </div>
+	 <div >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZWkwcHK_g5_g3yZpEu9W-4bWwpX4wzzWBA&s" alt="Java" width="20" height="20"/> Java
+  </div>
   <div>
     <img src="https://img.icons8.com/plasticine/100/react.png" alt="React" width="20" height="20"/> React
   </div>
